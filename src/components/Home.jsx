@@ -26,7 +26,7 @@ function Home() {
         <>
             <DivContainer>
                 <div className='logo'>
-                    <h2><span>Inicio</span></h2> 
+                    <h2><span>Página Principal</span></h2> 
                 </div>
                 <div className='welcome'> 
                     <div className='username'>

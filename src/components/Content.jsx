@@ -216,7 +216,7 @@ const Table = styled.table`
     }
 
     #btnEdit {
-        background:#3E08C9;
+        background:#080ec9;
     }
 
     #btnDelete {
